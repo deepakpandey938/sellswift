@@ -77,7 +77,7 @@ export default function Home() {
               Find your next <span className="text-yellow-300">perfect</span> place
             </h1>
             <p className="text-gray-200 text-sm sm:text-lg mb-6 animate__animated animate__fadeInUp animate__delay-1s">
-              Sahand Estate makes house hunting effortless. Browse a wide range of listings.
+              sellswift Estate makes house hunting effortless. Browse a wide range of listings.
             </p>
             <Link
               to="/search"
