@@ -1,0 +1,1 @@
+this is text file for the sellswift. sellswift is the project where the user basicaly buy and sell any kind of realstate properties.and also sellswift is basicaly fullstate project where the frontend and also backened also availbale both .
